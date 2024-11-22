@@ -1,4 +1,4 @@
-let text = 'T amo Yasury';
+let text = 'Rafaela Quisigüiña';
 let h2 = document.getElementById('Rafaela Quisigüiña');
 
 text.split('').forEach((char,index) => {
