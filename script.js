@@ -1,5 +1,5 @@
-let text = 'Thruxuri Twitch';
-let h2 = document.getElementById('Thruxuri Twitch');
+let text = 'natapafresa';
+let h2 = document.getElementById('natapafresa');
 
 text.split('').forEach((char,index) => {
     let span = document.createElement('span');
